@@ -1,0 +1,11 @@
+window-decoration = false
+theme = 3024 Night
+window-padding-x = 20
+window-padding-y = 20
+background-opacity = 0.8
+background-blur-radius = 20
+clipboard-read = allow
+clipboard-write = allow
+clipboard-paste-protection = true
+font-family = "Hack"
+font-size = 10
